@@ -6,5 +6,8 @@
   "python.analysis.extraPaths": [
     "path/to/root/dir/"
   ],
-  "python.pythonPath": "fastapi-app/bin/python3.8"
+  "python.pythonPath": "fastapi-app/bin/python3.8",
+  "cSpell.words": [
+    "pydantic"
+  ]
 }

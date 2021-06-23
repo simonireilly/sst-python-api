@@ -1,3 +1,5 @@
 node_modules
 
 fastapi-app
+
+__pycache__

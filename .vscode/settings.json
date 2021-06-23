@@ -1,0 +1,10 @@
+{
+  "python.venvFolders": [
+    "${workspaceFolder}/fastapi-app"
+  ],
+  "python.analysis.autoImportCompletions": true,
+  "python.analysis.extraPaths": [
+    "path/to/root/dir/"
+  ],
+  "python.pythonPath": "fastapi-app/bin/python3.8"
+}

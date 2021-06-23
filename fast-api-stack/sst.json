@@ -1,0 +1,6 @@
+{
+  "name": "fast-api-stack",
+  "stage": "dev",
+  "region": "us-east-1",
+  "lint": true
+}
